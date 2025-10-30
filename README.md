@@ -38,13 +38,7 @@ const henryAmadi = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Henry-Amadi/Henry-Amadi/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
