@@ -118,7 +118,7 @@ gantt
 <td width="50%">
 
 **📊 Data Analyst & Administrative Support**  
-*Ayokunle Creative Studio* | Sept 2024 - Present
+*Ayokunle Creative Studio* | Jan 2019 – Dec 2021
 
 **Key Responsibilities:**
 - 📋 HR documentation and data management
@@ -136,7 +136,7 @@ gantt
 <td width="50%">
 
 **🎫 Customer Service & Front-of-House Assistant**  
-*NEC, Birmingham* | Jan 2022 - Aug 2024
+*NEC, Birmingham* | Jan 2022 – Present
 
 **Key Responsibilities:**
 - 😊 Exceptional customer service delivery
@@ -156,7 +156,7 @@ gantt
 
 ### 🏆 Previous Experience
 
-**💻 IT & Helpdesk Support Analyst** | *De Experience Global Limited (Remote, Nigeria)* | Jan 2019 - Dec 2021
+**💻 IT & Helpdesk Support Analyst** | *De Experience Global Limited (Remote, Nigeria)* | Sep 2024 – Present
 
 <table>
 <tr>
