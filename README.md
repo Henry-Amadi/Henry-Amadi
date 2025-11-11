@@ -23,14 +23,14 @@ Motivated and detail-oriented **Computer Science Graduate** with strong expertis
 const henryAmadi = {
     location: "Birmingham, UK 🇬🇧",
     roles: ["Data Analyst", "IT Support Specialist", "Computer Science Graduate"],
-    education: "BSc Computer Science - 2:1",
+    education: "BSc Computer Scie - 2:1",
     university: "Birmingham City University",
     specializations: ["Data Analysis", "IT Support", "Technical Documentation"],
     certifications: ["Google Data Analytics", "Cisco Networking"],
     ticketsResolved: "50+ weekly",
     customerSatisfaction: "98%",
     firstContactResolution: "95%",
-    passions: ["Data Insights", "Problem Solving", "Process Improvement", "Customer Excellence"],
+    passions: ["Data Insights", "Problem Solving", "Process Improvement", "Customer Excelle"],
     currentFocus: "Data Analytics & IT Support Solutions",
     availableFor: ["Data Analysis Roles", "IT Support Positions", "Technical Consulting"]
 };
@@ -64,7 +64,7 @@ const henryAmadi = {
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Conflue](https://img.shields.io/badge/Conflue-172B4D?style=for-the-badge&logo=conflue&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -96,18 +96,18 @@ const henryAmadi = {
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experie
 
 ```mermaid
 gantt
     title Career Journey
     dateFormat YYYY-MM
     section Education
-    BSc Computer Science :2022-09, 2025-06
+    BSc Computer Scie :2022-09, 2025-06
     Foundation Programme :2022-01, 2022-08
     section Professional
     Data Analyst, Ayokunle Creative :2024-09, 2025-12
-    Customer Service, NEC :2022-01, 2024-08
+    Customer Service, UVB/Wilson :2022-01, 2024-08
     IT Support Analyst, De Experience :2019-01, 2021-12
 ```
 
@@ -136,7 +136,7 @@ gantt
 <td width="50%">
 
 **🎫 Customer Service & Front-of-House Assistant**  
-*NEC, Birmingham* | Jan 2022 – Present
+*Uvb/Wilson, Birmingham* | Jan 2022 – Present
 
 **Key Responsibilities:**
 - 😊 Exceptional customer service delivery
